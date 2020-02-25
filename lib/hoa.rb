@@ -11,7 +11,6 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
-binding.pry
 puts add_character(:chipmunks, Snarf)
 add_character(third_earthers, Snarf)
 add_character(jetsons, Snarf)
