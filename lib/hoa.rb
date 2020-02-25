@@ -7,7 +7,7 @@ BASE_HOA = {
 }
 
 def add_character(show, name)
-  binding.pry
+  #binding.pry
   show << name
   # Write your implementation here
   # Should return the array of the 'show' argument
